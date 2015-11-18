@@ -1,6 +1,5 @@
-19:55:19 **** Incremental Build of configuration Debug for project djoHelloWorld ****
+20:24:03 **** Incremental Build of configuration Debug for project CoreyHelloWorld ****
 Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\djoHelloWorld.o" "..\\src\\djoHelloWorld.cpp" 
-g++ -o djoHelloWorld.exe "src\\djoHelloWorld.o" 
-Info: Nothing to build for djoHelloWorld
-Info: Nothing to build for djoHelloWorld
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\CoreyHelloWorld.o" "..\\src\\CoreyHelloWorld.cpp" 
+g++ -o CoreyHelloWorld.exe "src\\CoreyHelloWorld.o" 
+Info: Nothing to build for CoreyHelloWorld
